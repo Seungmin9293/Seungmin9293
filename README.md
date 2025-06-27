@@ -35,6 +35,3 @@
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-
-
-![Seungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmin9293&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmin9293&layout=compact)
