@@ -1,15 +1,6 @@
 ## 👋 안녕하세요!
 
 
-- 🔭 Currently working on: A diet recommendation app for single-person households
-- 🌱 Learning: Advanced AI model deployment, cloud architecture
-- 💬 Ask me about: Flutter app design, Spring Boot, AI-based recommendation systems
-- 📫 How to reach me: seungmin@example.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love turning real-life pain points into useful apps!
-
----
-
 ### 💻 Stack
 
 #### 💬 Languages
