@@ -13,4 +13,4 @@
 
 #### 🎨 Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
